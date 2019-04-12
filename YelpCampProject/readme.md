@@ -1,8 +1,13 @@
 #YelpCamp
 
 ##Initial Setup
-* Add Landing Page
-* Add Campgrounds Page that lists all campgrounds
+* Run terminal
+* cd to the document where the package.json were located
+* Run npm install
+* Run node app.js
+* Go to http://localhost:3000
+
+
 
 Each Campground has:
    * Name
